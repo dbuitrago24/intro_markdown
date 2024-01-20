@@ -77,5 +77,6 @@ def suma(x, y):
 
 * [x] Task 1
 * [x] Task 2
-* [] Task 3
-* [] Task 4
+
+  @daniela :alien: :heart:
+  @David
