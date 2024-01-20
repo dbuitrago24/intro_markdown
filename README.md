@@ -1,11 +1,7 @@
 <!--HEADINGS(RÚBRICAS)-->
 
-# Mi título
-## MY title 2
-### Mi titulo 3
-#### MI titulo 4
-##### MI titulo 5
-###### MI titulo 6
+# Introducción Markdown
+## Primer intento
 
 <!--italic-->
 This is an *italic* text
